@@ -173,9 +173,9 @@ h3 {
 }
 
 p {
-  font-size: 1.2rem;
+  font-size: 2rem;
   font-family: 'Ubuntu', sans-serif;
-  line-height: 3rem;
+  line-height: 4rem;
   color: white;
 }
 
@@ -273,6 +273,13 @@ p {
 
 .about img {
   margin: 0;
+}
+
+p {
+  font-size: 1.3rem;
+  font-family: 'Ubuntu', sans-serif;
+  line-height: 2.5rem;
+  color: white;
 }
 
 h2 {
