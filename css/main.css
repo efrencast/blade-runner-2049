@@ -32,7 +32,7 @@ li {
   font-size: 2rem;
 }
 
-li a:visited {
+a:visited {
   color: #FFFFFF;
 }
 
@@ -43,7 +43,7 @@ li a:hover {
 /* sections */
 
 .cover {
-  background-image: url("/images/video.jpg");
+  background: url("../images/video.jpg");
   background-repeat: no-repeat, repeat;
   background-position: center;
   height: 50rem;
@@ -200,6 +200,7 @@ p {
 
 .button a {
   color: #FFFFFF;
+  font-size: 3rem;
 }
 
 /* images */
@@ -219,6 +220,7 @@ img {
   width: 12%;
   display: block;
   margin: 0rem auto;
+  padding-top: 5rem;
 }
 
 ul li {
@@ -288,14 +290,12 @@ h2 {
   padding: 1.5rem;
 }
 
-.images h2 {
-  text-align: center;
+.button a {
+  font-size: 1rem;
 }
 
-.logo {
-  width: 12%;
-  display: block;
-  margin: 0rem auto;
+.images h2 {
+  text-align: center;
 }
 
 
